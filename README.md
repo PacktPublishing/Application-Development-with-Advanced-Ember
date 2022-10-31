@@ -36,7 +36,3 @@ Recommended Hardware Requirements<br/>For an optimal experience with hands-on la
 
 * [Learn Network Hacking From Scratch (WiFi and Wired) [Video]](https://www.packtpub.com/application-development/learn-network-hacking-scratch-wifi-and-wired-video?utm_source=github&utm_medium=repository&utm_campaign=9781789340013)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788393447">https://packt.link/free-ebook/9781788393447 </a> </p>
